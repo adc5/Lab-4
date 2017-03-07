@@ -5,7 +5,7 @@
 5.  Engage the Emotion to Engage the Understanding 
 geojson file = stateData.geojson
 
->Link to the Map of United States Date: https://api.mapbox.com/styles/v1/alexcarl/cizqci4rq004n2rpeito7ri2c.html?title=true&access_token=pk.eyJ1IjoiYWxleGNhcmwiLCJhIjoiY2l6bWIzdzgzMDIxaTJxbDJnbGJib3o5MSJ9.cALP_wuaJJpUIBaq5SAFZg#3.8/39.325345/-103.407230/0
+>Link to the Map of United States Styling [without overlay]: https://api.mapbox.com/styles/v1/alexcarl/cizqci4rq004n2rpeito7ri2c.html?title=true&access_token=pk.eyJ1IjoiYWxleGNhcmwiLCJhIjoiY2l6bWIzdzgzMDIxaTJxbDJnbGJib3o5MSJ9.cALP_wuaJJpUIBaq5SAFZg#3.8/39.325345/-103.407230/0
 
 >Link to the website with the operational map:
 	"http://students.washington.edu/adc5/Lab4_web2.html"
