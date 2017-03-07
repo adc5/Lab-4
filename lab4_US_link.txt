@@ -79,10 +79,7 @@ map.on('load', function () {
         "filter": ["==", "name", ""]
     });
 
-    // When the user moves their mouse over the page, we look for features
-    // at the mouse position (e.point) and within the states layer (states-fill).
-    // If a feature is found, then we'll update the filter in the state-fills-hover
-    // layer to only show that state, thus making a hover effect.
+    //on hover fill in state
     map.on("mousemove", function(e) {
         var features = map.queryRenderedFeatures(e.point, { layers: ["state-fills"] });
         if (features.length) {
