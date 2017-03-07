@@ -1,6 +1,6 @@
-1. Concept before Compilation  
+1.  Concept before Compilation  
 2.  Hierarchy with Harmony  
-3. Simplicity from Sacrifice  
+3.  Simplicity from Sacrifice  
 4.  Maximum Information at Minimum Cost (after ZifF)  
 5.  Engage the Emotion to Engage the Understanding 
 geojson file = stateData.geojson
